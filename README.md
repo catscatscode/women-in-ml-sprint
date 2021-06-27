@@ -17,3 +17,5 @@ After a quick EDA and visualization, I built a K-nearest-neighbors machine learn
 * demographics (age and gender), 
 * financials (credit score, estimated salary), and 
 * existing use of the bank's products (number of products they use, bank balance, whether they have a credit card, etc.).
+
+Finally, I evaluated the features to explain the model using feature permutation.
